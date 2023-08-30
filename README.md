@@ -37,8 +37,12 @@ You can explore the live version of the Doctor Appointment System by visiting (h
 Install the required dependencies for both the front-end and back-end:
 
 cd doctor-appointment-system/frontent_doc
+
 npm install
+
 cd ../backend_doc/server
+
+
 npm install
 
 
